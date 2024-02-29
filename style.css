@@ -705,3 +705,7 @@ a li:hover{
 
   color: red;
 }
+.button:hover{
+    background:transparent;
+    color:black;
+}
